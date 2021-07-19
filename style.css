@@ -73,12 +73,12 @@ p {
 }
 
 .bg1{
-    background: url('../images/shushi.JPG');
+    background: url('./images/pen.jpg');
     color: #333;
 }
 
 .bg2{
-    background: url('../images/pen.jpg');
+    background: url('./images/iverson.jpg');
     color: #321
 }
 .shadowbox {
