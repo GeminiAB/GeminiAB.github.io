@@ -1,5 +1,3 @@
-from typing import OrderedDict
-
 
 test = lambda x: "even" if(x%2 == 0) else "odd"
 print(test(103))
