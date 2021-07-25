@@ -73,12 +73,12 @@ p {
 }
 
 .bg1{
-    background: url('./images/RX-0_day.jpg');
+    background: url('./images/RX-0_night.jpg');
     color: #333;
 }
 
 .bg2{
-    background: url('./images/RX-0_night.jpg');
+    background: url('./images/RX-0_day.jpg');
     color: #321
 }
 .shadowbox {
