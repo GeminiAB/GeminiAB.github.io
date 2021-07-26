@@ -1,4 +1,4 @@
-
+#匿名函數Lambda
 test = lambda x: "even" if(x%2 == 0) else "odd"
 print(test(103))
 
